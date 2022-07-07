@@ -107,3 +107,37 @@ p {
     border: none;
     cursor: pointer;
 }
+
+
+#about {
+    height: 400px;
+}
+#about p {
+    line-height: 2em;
+    font-size: 15px;
+}
+
+#about h2 {
+    color: #ffb740;
+}
+
+#about i {
+    margin-bottom: 10px;
+}
+
+
+#about .container-1,
+#about .container-2,
+#about .container-3 {
+    float: left;
+    width: 33%;
+    overflow: hidden;
+    text-align: center;
+    padding-top: 20px;
+}
+#about a.c-btn {
+    color: #082032;
+}
+#about a.c-btn:hover {
+    color: #ffb740;
+}
