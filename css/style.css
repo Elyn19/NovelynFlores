@@ -126,9 +126,9 @@ p {
 }
 
 
-#about .container-1,
-#about .container-2,
-#about .container-3 {
+#about .content-1,
+#about .content-2,
+#about .content-3 {
     float: left;
     width: 33%;
     overflow: hidden;
