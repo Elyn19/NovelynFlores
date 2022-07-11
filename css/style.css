@@ -162,7 +162,7 @@ p {
     z-index: 2;
 }
 
-#testimonial .lead-head {
+#testimonials .lead-head {
     color: #fff;
     padding-top: 20px;
     margin-bottom: 20px;
@@ -185,6 +185,7 @@ footer {
     height: 70px;
     overflow:auto
 }
+
 .footer {
     color: #fff;
     text-align: center;
