@@ -173,7 +173,7 @@ p {
     background: rgba(255, 255, 255, 0.4)
 }
 
-#testimonial .testimonial {
+#testimonials .testimonial {
     padding: 20px;
     width: 50%;
     margin-bottom: 40px;
@@ -183,11 +183,7 @@ p {
 footer {
     background: #082032;
     height: 70px;
-    overflow:auto
-}
-
-.footer {
+    overflow:auto;
     color: #fff;
     text-align: center;
-    margin-top: 20px;
 }
